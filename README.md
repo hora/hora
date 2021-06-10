@@ -2,7 +2,7 @@
 
 i'm a web developer and educator.
 
-i am really good at teaching beginner programmers the basics in (almost) any programming language.
+*i am really good at teaching beginner programmers the basics in (almost) any programming language.*
 
 i'm available for hire as a private or group tutor / code mentor. you can reach me at: horacodementor at protonmail dot com
 
